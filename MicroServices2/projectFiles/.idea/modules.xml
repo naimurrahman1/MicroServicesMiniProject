@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/APIGateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/APIGateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book-library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/book-library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.bjit.book-library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.bjit.book-library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.bjit.order-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.bjit.order-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.bjit.user-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.bjit.user-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.APIGateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.APIGateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payment-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/payment-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projectFiles.iml" filepath="$PROJECT_DIR$/.idea/projectFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service.main.iml" />
+    </modules>
+  </component>
+</project>
